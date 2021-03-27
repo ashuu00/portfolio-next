@@ -1,0 +1,33 @@
+.navContainer{
+    height: 70px;
+    width: 100%;
+    z-index: 100;
+    //border-bottom: 2px solid darkcyan;
+    box-shadow: 2px 2px 5px 5px black;
+    transition: all 0.5s;
+}
+
+.navItem{
+   
+    margin-bottom: 3px;
+    &:hover{
+        cursor: pointer;
+        border-bottom: 3px solid;
+        margin-bottom: 0;
+    }
+}
+
+.serviceCard{
+    transition: all 0.7s;
+    &:hover{
+        transform: scale(1.05);
+        cursor: pointer;
+    }
+}
+
+.projectCard{
+
+    .projectImage{
+
+    }
+}
