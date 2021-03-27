@@ -10,4 +10,7 @@ npm run dev
 yarn dev
 ```
 
+Then, run command ```npm start```
+Goto localhost:3000 on web browser to see the website
+
 ### Screenshots of the Website below:
